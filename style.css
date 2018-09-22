@@ -1,0 +1,44 @@
+#div1{
+	float:left;
+	padding: 10px;
+	padding-top:0px;
+	display:block;
+}
+#div2{
+	float:left;
+	padding: 10px;
+	padding-top:0px;
+	display:block;	
+}
+#div3{
+	float:left;
+	padding: 10px;
+	padding-top:0px;
+	display:block;
+	
+}
+#yourMessage{
+	width:300px;
+}
+
+pre{
+	border: 2px solid black;
+	float: right;
+	width:50%;
+}
+#connect{
+	float: left;
+	height: 55px;
+}
+#disconnect{
+	float: left;
+	height: 55px;
+}
+#otherId{
+	float:left;
+}
+#send{
+	height:55px;
+	float:right;
+	padding-left:10px;
+}
